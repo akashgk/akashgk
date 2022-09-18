@@ -9,6 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [akashgkrishnan.co.in](akashgkrishnan.co.in)
 
+- 👨‍💻  [Github Account 1](https://github.com/akashgkrishnan)
+
+- 👨‍💻  [Github Account 2](https://github.com/akashgk)
+
 - 💬 Ask me about **Flutter, Dart, DSA, Python, JS**
 
 - 📫 How to reach me **krishnanag1996@gmail.com**
