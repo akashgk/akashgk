@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [The Algorithms/Dart](https://github.com/TheAlgorithms/Dart)
 
-- 👨‍💻 All of my projects are available at [akashgkrishnan.co.in](akashgkrishnan.co.in)
+- 👨‍💻 All of my projects are available at
 
 - 👨‍💻  [Github Account 1](https://github.com/akashgkrishnan)
 
