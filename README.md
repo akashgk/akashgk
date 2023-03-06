@@ -33,8 +33,7 @@
 <a href="https://auth.geeksforgeeks.org/user/akashgkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 </p>
 
-[](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akashgk&theme=nord_dark)
-[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akashgk&theme=nord_dark)
+[![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashgk)](https://github.com/akashgk/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
