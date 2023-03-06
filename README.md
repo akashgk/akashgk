@@ -1,6 +1,8 @@
 <h1 align="center">Heyy 😎, I'm Akash</h1>
 <h3 align="center">Software Development Engineer. Mobile App Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashgk&label=Profile%20views&color=0e75b6&style=flat" alt="akashgk" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashgk" alt="akashgk" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -26,7 +28,7 @@
 <a href="https://linkedin.com/in/akashgkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10167101/akash-g-krishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10167101/akash-g-krishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/akashgkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashgkrishnan" height="30" width="40" /></a>
-<a href="https://hashnode.com/@akashgkrishnan.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@akashgkrishnan.hashnode.dev" height="30" width="40" /></a>
+<a href="https://hashnode.com/akashgkrishnan.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="akashgkrishnan.hashnode.dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akashgkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashgkrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashgkrishnan" height="30" width="40" /></a>
 </p>
