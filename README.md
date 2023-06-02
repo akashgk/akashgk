@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashgk](https://github.com/akashgk)
 
-- 📝 I regularly write articles on [https://akashgkrishnan.hashnode.dev/](https://akashgkrishnan.hashnode.dev/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@krishnanag1996)
 
 - 💬 Ask me about **Dart, Flutter, JS, DSA**
 
