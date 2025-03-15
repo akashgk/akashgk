@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akash G Krishnan | Portfolio</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .hero {
+            background: linear-gradient(135deg, #6e8efb, #a777e3);
+            color: white;
+            padding: 80px 0;
+            text-align: center;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        .hero p {
+            font-size: 1.4rem;
+        }
+        .btn-custom {
+            margin: 10px;
+            cursor: pointer;
+        }
+        .section-title {
+            margin-top: 40px;
+            text-align: center;
+            font-weight: bold;
+            color: #343a40;
+        }
+        .card {
+            transition: 0.3s;
+            border-radius: 10px;
+        }
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #343a40;
+            color: white;
+            margin-top: 30px;
+        }
+        .contact-info {
+            text-align: center;
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header class="hero">
+        <h1>Akash G Krishnan</h1>
+        <p id="experience-text">Senior Flutter Developer | <span id="experience-years"></span> Years of Experience</p>
+        <button onclick="contactMe()" class="btn btn-light btn-custom">Contact Me</button>
+        <a href="https://www.linkedin.com/in/akashgkrishnan" class="btn btn-dark btn-custom">LinkedIn</a>
+        <a href="https://github.com/akashgk/akashgk" class="btn btn-secondary btn-custom">GitHub</a>
+        <a href="https://medium.com/@krishnanag1996" class="btn btn-info btn-custom">Medium</a>
+    </header>
+
+    <div class="container">
+        <h2 class="section-title">About Me</h2>
+        <p class="text-center">Highly skilled software developer with extensive experience in crafting visually stunning, responsive, and high-performance applications across mobile and web platforms.</p>
+    
+        <h2 class="section-title">Work Experience</h2>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Flutter Developer</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Commercial Bank of Qatar | June 2023 - Present</h6>
+                <p class="card-text">Led frontend development of major banking applications, saving the bank 30 million QAR through internal solutions.</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Software Development Engineer</h5>
+                <h6 class="card-subtitle mb-2 text-muted">PyjamaHR | Feb 2021 - June 2023</h6>
+                <p class="card-text">Built multiple high-performance applications, including an audio-based social media platform using Flutter and Agora SDK.</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Software Engineer</h5>
+                <h6 class="card-subtitle mb-2 text-muted">InnovationM | Sep 2018 - Jan 2021</h6>
+                <p class="card-text">Worked on various projects, contributing across testing, project management, and software development.</p>
+            </div>
+        </div>
+    
+        <h2 class="section-title">Technical Skills</h2>
+        <ul class="list-group list-group-flush text-center">
+            <li class="list-group-item">Flutter, Dart, JavaScript, ReactJS, Python, FastAPI</li>
+            <li class="list-group-item">State Management: Provider, Riverpod, Bloc</li>
+            <li class="list-group-item">DevOps Tools: Git, Bitbucket, Azure DevOps</li>
+            <li class="list-group-item">Cloud & Backend: Firebase, Firebase Auth, HiveDB</li>
+        </ul>
+    
+        <h2 class="section-title">Education</h2>
+        <p class="text-center"><strong>Bachelor’s Degree in Computer Science Engineering</strong> - College of Engineering, Aranmula, Cochin University of Science and Technology (2018)</p>
+    
+        <h2 class="section-title">Contact</h2>
+        <p class="contact-info">🇮🇳: +91 8130233807</p>
+        <p class="contact-info">🇶🇦: +974 71743533</p>
+    </div>
+
+    <footer>
+        <p>&copy; <span id="year"></span> Akash G Krishnan. All rights reserved.</p>
+    </footer>
+
+    <script>
+        function calculateExperience(startYear) {
+            const currentYear = new Date().getFullYear();
+            return currentYear - startYear;
+        }
+        document.getElementById("experience-years").textContent = calculateExperience(2018);
+        document.getElementById("year").textContent = new Date().getFullYear();
+
+        function contactMe() {
+            window.location.href = "mailto:krishnanag1996@gmail.com";
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
