@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akash G Krishnan
 
 🚀 Senior Flutter Developer | 💻 Full-Stack Engineer | 🔒 Fintech Specialist  
-🎯 6.4+ Years Experience | 💼 Working with Commercial Bank of Qatar | 🇶🇦 Based in Doha
+🎯 7.4+ Years Experience | 💼 Working with Commercial Bank of Qatar | 🇶🇦 Based in Doha
 
 ---
 
