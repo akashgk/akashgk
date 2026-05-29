@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=200&section=header&text=Akash%20G%20Krishnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Flutter%20Engineer%20%C2%B7%20Fintech%20%C2%B7%20Open%20Source&descAlignY=60&descSize=18&descAlignX=50" width="100%"/>
 
 <a href="https://github.com/akashgk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=02A8F4&center=true&vCenter=true&width=620&lines=Building+secure+banking+apps+%40+Commercial+Bank+of+Qatar;Flutter+%E2%80%A2+Dart+%E2%80%A2+Full-Stack;Maintainer+%40+TheAlgorithms%2FDart;From+a+blank+canvas+to+the+App+Store" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=02A8F4&center=true&vCenter=true&width=760&height=45&lines=Building+secure+banking+apps+%40+Commercial+Bank+of+Qatar;Flutter+%E2%80%A2+Dart+%E2%80%A2+Full-Stack+Engineer;Maintainer+%40+TheAlgorithms%2FDart;From+a+blank+canvas+to+the+App+Store" alt="What I do" />
 </a>
 
 <p>
